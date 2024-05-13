@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to my profile 💜
 
-<!--
-**l0wpz2x/l0wpz2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Murilo "l0wpz2x" Martelleto, but you can me what sounds better for you
 
-Here are some ideas to get you started:
+- In the moment I'am studying Web Design and Programation; ✏️🖥️
+- At the same time, I'm cursing the high school in the last year; 🏫
+- I've learning JavaScript, and I look for more languages in the future; 📝⌚
+  
+### You can cantact me here ⬇️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-murilomtoledo@gmail.com; 📧
+
+-My art page [l0wpz2x_art](https://www.instagram.com/l0wpz2x_art) 📷
+
+![](https://media1.tenor.com/m/5JY6aRq1wsIAAAAC/tusk-tusk-act-1.gif)
